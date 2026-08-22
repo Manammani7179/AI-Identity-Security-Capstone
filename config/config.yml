@@ -1,0 +1,14 @@
+models: []
+
+rails:
+  input:
+    flows:
+      - check input
+  output:
+    flows:
+      - check output
+
+prompts: []
+
+user_messages: {}
+bot_messages: {}

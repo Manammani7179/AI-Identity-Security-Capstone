@@ -1,0 +1,6 @@
+.env
+venv/
+agent_private_key.pem
+agent_public_key.pem
+__pycache__/
+*.pyc
